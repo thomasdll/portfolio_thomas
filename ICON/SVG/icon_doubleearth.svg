@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.18 64.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: .79px;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1-2" data-name="Calque 1">
+    <g>
+      <g>
+        <circle class="cls-1" cx="83.01" cy="32.18" r="31.78"/>
+        <ellipse class="cls-1" cx="83.01" cy="32.18" rx="19.24" ry="31.78"/>
+        <line class="cls-1" x1="83.01" y1=".39" x2="83.01" y2="63.96"/>
+        <line class="cls-1" x1="110.85" y1="47.54" x2="55.09" y2="47.54"/>
+        <line class="cls-1" x1="110.85" y1="17.03" x2="55.09" y2="17.03"/>
+        <line class="cls-1" x1="51.22" y1="32.18" x2="114.79" y2="32.18"/>
+      </g>
+      <g>
+        <circle class="cls-1" cx="32.18" cy="32.18" r="31.78"/>
+        <ellipse class="cls-1" cx="32.18" cy="32.18" rx="19.24" ry="31.78"/>
+        <line class="cls-1" x1="32.18" y1=".39" x2="32.18" y2="63.96"/>
+        <line class="cls-1" x1="60.02" y1="47.54" x2="4.26" y2="47.54"/>
+        <line class="cls-1" x1="60.02" y1="17.03" x2="4.26" y2="17.03"/>
+        <line class="cls-1" x1=".39" y1="32.18" x2="63.96" y2="32.18"/>
+      </g>
+    </g>
+  </g>
+</svg>
